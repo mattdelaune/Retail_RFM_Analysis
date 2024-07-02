@@ -49,31 +49,31 @@ Sales Amount (Unit price times quantity. For unit price, please divide Sales Amo
 
 ## Screenshots
 
-![Dashboard Overview](path/to/your/screenshot1.png)
+![Dashboard Overview](images/dashboard_overview.png)
 *Dashboard Overview Page*
 
 ![RFM Dashboard](_.png)
 *RFM Dashboard*
 
-![Customer Segmentation](_.png)
+![Customer Segmentation](images/customer_segmentation.png)
 *Customer Segmentation*
 
-![Recency Analysis](path/to/your/screenshot2.png)
+![Recency Analysis](images/customer_recency_analysis.png)
 *Recency Analysis Page*
 
-![Frequency Analysis](path/to/your/screenshot3.png)
+![Frequency Analysis](images/customer_purchase_frequency_analysis.png)
 *Frequency Analysis Page*
 
-![Monetary Analysis](path/to/your/screenshot4.png)
+![Monetary Analysis](images/customer_value_analysis.png)
 *Monetary Analysis Page*
 
-![Conclusion and Recommendations](_.png)
+![Conclusion and Recommendations](images/conclusion_and_recommendations.png)
 *Conclusion and Recommendations*
 
-![Next Steps](_.png)
+![Next Steps](images/next_steps.png)
 *Next Steps*
 
-![Project Timeline and Roadmap](_.png)
+![Project Timeline and Roadmap](images/project_timeline_and_roadmap.png)
 *Project Timeline and Roadmap*
 
 ## Insights and Analysis
