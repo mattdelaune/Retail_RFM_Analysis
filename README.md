@@ -22,8 +22,12 @@ Welcome to the Customer RFM (Recency, Frequency, Monetary) Analysis Project! Thi
   - **Power Query**: Used for data transformation and cleaning.
   - **Interactive Visualizations**: Implemented dynamic filters, tooltips, and engaging charts.
 
+---
+
 ## Data Source
 Our data comes from retail store sales transactions available on Kaggle. [The anonymized dataset](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions?resource=download) includes 64.682 transactions of 5.242 SKU's sold to 22.625 customers during one year.
+
+---
 
 ## Features
 - **Interactive Visualizations:** Engaging and interactive charts and graphs to deeply explore various customer segments.
@@ -32,13 +36,19 @@ Our data comes from retail store sales transactions available on Kaggle. [The an
 - **Dynamic Filters:** Slicers enabling data filtering based on R, F, and M scores for tailored analysis.
 - **Comprehensive Analysis:** Dedicated pages for each aspect of RFM, including a thorough segment analysis, conclusions, and business recommendations.
 
+---
+
 ## Business Question
 **"How can we optimize our marketing budget by focusing on the highest ROI segments identified in the RFM analysis, while simultaneously addressing the needs of low-frequency and at-risk customers to maximize overall customer lifetime value?"**
+
+---
 
 ## Methodology
 An RFM (Recency, Frequency, Monetary) analysis will be performed to answer this business question. RFM analysis is a proven technique that segments customers based on how recently they made a purchase, how often they purchase, and how much they spend. This approach allows businesses to identify their most valuable customers and tailor marketing efforts to maximize ROI.
 
 By using RFM analysis, we can prioritize marketing spend on high-value segments that are likely to deliver the greatest returns while also developing strategies to re-engage low-frequency and at-risk customers. This ensures that marketing efforts are both efficient and effective in enhancing customer retention and maximizing lifetime value.
+
+---
 
 ## Business Question Specific Insights and Recommendations:
 1. **Customer Segment by Revenue:**
@@ -53,8 +63,9 @@ By using RFM analysis, we can prioritize marketing spend on high-value segments 
 - **Observation:** The RFM analysis reveals that New Customers and Lost Customers segments show potential for growth, yet they are not fully leveraged.
 - **Actionable Insight:** Invest in strategies to nurture New Customers, moving them into higher value segments over time. Develop win-back campaigns aimed at Lost Customers to regain their business, focusing on addressing their previous pain points and offering compelling incentives.
 
+---
 
-## Further Analysis, General Insights, and Stakeholder Recommendations
+## Further Analysis and General Insights
 
 ### Recency Insights
 - The majority of customers have made recent purchases, indicating high engagement.
@@ -66,7 +77,7 @@ By using RFM analysis, we can prioritize marketing spend on high-value segments 
 - High-value segments like "Champions" and "Promising Customers" contribute significantly to revenue.
 - Segments at risk of churning need targeted campaigns to maintain their engagement.
 
-## General Stakeholder Recommendations
+## Stakeholder Recommendations by Priority
 
 ### Immediate Actions: Quick Wins
 **Engagement Programs:** 
@@ -100,12 +111,16 @@ By using RFM analysis, we can prioritize marketing spend on high-value segments 
 - **Churn Prediction:** Develop predictive models to identify customers at risk of churning and implement proactive retention strategies to mitigate this risk.
 - **Enhanced Segmentation:** Investigate additional segmentation criteria beyond RFM, including customer demographics and behavior patterns, to refine and enhance marketing strategies.
 
+---
+
 ## Contact
 For more information, please contact:
 
 **Name:** Matt Delaune
 
 **Email:** matt.delaune@gmail.com
+
+---
 
 ## Screenshots
 
