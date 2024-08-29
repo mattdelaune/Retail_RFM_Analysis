@@ -4,6 +4,7 @@
 Welcome to the Customer RFM (Recency, Frequency, Monetary) Analysis Project! This initiative provides comprehensive insights into customer behavior, engagement, and value, showcasing the power of RFM analysis. This project demonstrates how to drive targeted marketing strategies, enhance customer retention, and maximize business profitability by understanding and segmenting customers. Key features include the use of DAX expressions for precise calculations, interactive visualizations with dynamic filters and tooltips for an enhanced user experience, and a thorough data analysis with actionable recommendations. Additionally, a fictionalized timeline and roadmap outline the proposed steps for implementation.
 
 ## Table of Contents
+- [Technologies Used](#technologies-used)
 - [Data Source](#data-source)
 - [Features](#features)
 - [Business Question](#business-question)
@@ -14,6 +15,13 @@ Welcome to the Customer RFM (Recency, Frequency, Monetary) Analysis Project! Thi
 - [Future Work](#future-work)
 - [Contact](#contact)
 - [Screenshots](#screenshots)
+
+## Technologies Used
+- **Power BI**: For creating multi-page interactive dashboards and reports.
+  - **Advanced DAX Formulas**: Utilized for complex calculations and custom metrics.
+  - **Data Modeling**: Ensured accurate relationships and calculations across tables.
+  - **Power Query**: Used for data transformation and cleaning.
+  - **Interactive Visualizations**: Implemented dynamic filters, tooltips, and engaging charts.
 
 ## Data Source
 Our data comes from retail store sales transactions available on Kaggle. [The anonymized dataset](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions?resource=download) includes 64.682 transactions of 5.242 SKU's sold to 22.625 customers during one year.
