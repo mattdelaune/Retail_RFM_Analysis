@@ -9,10 +9,9 @@ Welcome to the Customer RFM (Recency, Frequency, Monetary) Analysis Project! Thi
 - [Features](#features)
 - [Business Question](#business-question)
 - [Methodology](#methodology)
-- [Business Question Specific Insights and Recommendations](#screenshots)
-- [Further Analysis and General Insights](#further-analysis-and-insights)
-- [General Stakeholder Recommendations](#recommendations)
-- [Recommendation for Future Analysis](#future-work)
+- [Business Question Specific Insights and Recommendations](#business-question-specific-insights-and-recommendations)
+- [Further Analysis, General Insights, and Stakeholder Recommendations](#further-analysis-general-insights-and-stakeholder-recommendations)
+- [Recommendation for Future Analysis](#recommendation-for-future-analysis)
 - [Contact](#contact)
 - [Screenshots](#screenshots)
 
@@ -37,7 +36,7 @@ Our data comes from retail store sales transactions available on Kaggle. [The an
 **"How can we optimize our marketing budget by focusing on the highest ROI segments identified in the RFM analysis, while simultaneously addressing the needs of low-frequency and at-risk customers to maximize overall customer lifetime value?"**
 
 ## Methodology
-I'll be performing an RFM (Recency, Frequency, Monetary) analysis to answer this business question. RFM analysis is a proven technique that segments customers based on how recently they made a purchase, how often they purchase, and how much they spend. This approach allows businesses to identify their most valuable customers and tailor marketing efforts to maximize ROI.
+An RFM (Recency, Frequency, Monetary) analysis will be performed to answer this business question. RFM analysis is a proven technique that segments customers based on how recently they made a purchase, how often they purchase, and how much they spend. This approach allows businesses to identify their most valuable customers and tailor marketing efforts to maximize ROI.
 
 By using RFM analysis, we can prioritize marketing spend on high-value segments that are likely to deliver the greatest returns while also developing strategies to re-engage low-frequency and at-risk customers. This ensures that marketing efforts are both efficient and effective in enhancing customer retention and maximizing lifetime value.
 
@@ -55,7 +54,7 @@ By using RFM analysis, we can prioritize marketing spend on high-value segments 
 - **Actionable Insight:** Invest in strategies to nurture New Customers, moving them into higher value segments over time. Develop win-back campaigns aimed at Lost Customers to regain their business, focusing on addressing their previous pain points and offering compelling incentives.
 
 
-## Further Analysis and General Insights
+## Further Analysis, General Insights, and Stakeholder Recommendations
 
 ### Recency Insights
 - The majority of customers have made recent purchases, indicating high engagement.
