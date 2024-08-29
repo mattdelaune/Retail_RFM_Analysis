@@ -1,6 +1,6 @@
 # RFM Analysis Power BI Multi-Page Dashboard and Report
 
-## Executive Overview
+## Executive Summary
 Welcome to the Customer RFM (Recency, Frequency, Monetary) Analysis Project! This initiative provides comprehensive insights into customer behavior, engagement, and value, showcasing the power of RFM analysis. This project demonstrates how to drive targeted marketing strategies, enhance customer retention, and maximize business profitability by understanding and segmenting customers. Key features include the use of DAX expressions for precise calculations, interactive visualizations with dynamic filters and tooltips for an enhanced user experience, and a thorough data analysis with actionable recommendations. Additionally, a fictionalized timeline and roadmap outline the proposed steps for implementation.
 
 ## Table of Contents
