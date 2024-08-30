@@ -16,7 +16,7 @@ Welcome to the Customer RFM (Recency, Frequency, Monetary) Analysis Project! Thi
 - [Screenshots](#screenshots)
 
 ## Technologies Used
-- **Power BI**: For creating multi-page interactive dashboards and reports.
+- **Power BI**: For creating multi-page interactive dashboards and overall report.
   - **Advanced DAX Formulas**: Utilized for complex calculations and custom metrics.
   - **Data Modeling**: Ensured accurate relationships and calculations across tables.
   - **Power Query**: Used for data transformation and cleaning.
