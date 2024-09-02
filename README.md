@@ -23,7 +23,7 @@ Welcome to the Customer RFM (Recency, Frequency, Monetary) Analysis Project! Thi
   - **Interactive Visualizations**: Implemented dynamic filters, tooltips, and engaging charts.
 
 ## Data Source
-Our data comes from retail store sales transactions available on Kaggle. [The anonymized dataset](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions?resource=download) includes 64.682 transactions of 5.242 SKU's sold to 22.625 customers during one year.
+Our data comes from retail store sales transactions available on Kaggle. [The anonymized dataset](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions?resource=download) includes 64,682 transactions of 5,242 SKU's sold to 22,625 customers during one year.
 
 ## Features
 - **Interactive Visualizations:** Engaging and interactive charts and graphs to deeply explore various customer segments.
